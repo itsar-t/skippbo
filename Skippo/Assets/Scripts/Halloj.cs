@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-//Ett test script
+//Ett test scriptsss
 public class Halloj : MonoBehaviour
 {
     // Start is called before the first frame update
